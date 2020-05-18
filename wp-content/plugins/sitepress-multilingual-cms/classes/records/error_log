@@ -1,0 +1,14 @@
+[30-Aug-2018 21:47:38 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-records.php on line 3
+[30-Aug-2018 21:47:38 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-icl-languages.php on line 3
+[31-Aug-2018 03:54:49 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-icl-languages.php on line 3
+[31-Aug-2018 03:54:49 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-records.php on line 3
+[04-Sep-2018 19:59:37 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-records.php on line 3
+[04-Sep-2018 19:59:37 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-icl-languages.php on line 3
+[04-Sep-2018 19:59:42 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-icl-languages.php on line 3
+[04-Sep-2018 19:59:42 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-records.php on line 3
+[05-Sep-2018 02:58:01 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-records.php on line 3
+[05-Sep-2018 02:58:01 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-icl-languages.php on line 3
+[05-Sep-2018 02:58:07 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-icl-languages.php on line 3
+[05-Sep-2018 02:58:07 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-records.php on line 3
+[11-Sep-2018 09:08:53 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-records.php on line 3
+[11-Sep-2018 09:08:53 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/classes/records/class-wpml-icl-languages.php on line 3

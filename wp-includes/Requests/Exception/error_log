@@ -1,0 +1,14 @@
+[30-Aug-2018 21:47:52 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[30-Aug-2018 21:47:52 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[31-Aug-2018 03:56:44 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[31-Aug-2018 03:56:44 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[04-Sep-2018 19:59:11 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[04-Sep-2018 19:59:11 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[04-Sep-2018 19:59:16 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[04-Sep-2018 19:59:17 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[05-Sep-2018 02:59:05 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[05-Sep-2018 02:59:05 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[05-Sep-2018 02:59:10 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[05-Sep-2018 02:59:11 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[11-Sep-2018 09:08:31 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[11-Sep-2018 09:08:32 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/emifoundation/public_html/wp-includes/Requests/Exception/HTTP.php on line 13

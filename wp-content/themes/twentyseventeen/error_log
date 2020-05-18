@@ -1,0 +1,6 @@
+[18-Aug-2018 20:18:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/emifoundation/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Aug-2018 22:33:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/emifoundation/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[19-Aug-2018 00:13:49 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/emifoundation/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[21-Aug-2018 22:00:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/emifoundation/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Aug-2018 05:25:35 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/emifoundation/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[29-Aug-2018 15:03:29 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/emifoundation/public_html/wp-content/themes/twentyseventeen/footer.php on line 22

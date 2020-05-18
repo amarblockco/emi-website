@@ -1,0 +1,7 @@
+[30-Aug-2018 21:30:20 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/emifoundation/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[31-Aug-2018 03:56:34 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/emifoundation/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[04-Sep-2018 19:54:21 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/emifoundation/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[04-Sep-2018 19:54:25 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/emifoundation/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[05-Sep-2018 02:58:59 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/emifoundation/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[05-Sep-2018 02:59:04 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/emifoundation/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-Sep-2018 09:07:19 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/emifoundation/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

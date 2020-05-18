@@ -1,0 +1,7 @@
+[30-Aug-2018 21:47:15 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[31-Aug-2018 03:54:13 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[04-Sep-2018 19:59:23 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[04-Sep-2018 19:59:27 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[05-Sep-2018 02:57:37 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[05-Sep-2018 02:57:43 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39
+[11-Sep-2018 09:08:34 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/tools/sunrise.php on line 39

@@ -1,0 +1,3 @@
+[28-Aug-2018 11:39:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/emifoundation/public_html/wp-content/plugins/enable-media-replace/upload.php on line 56
+[03-Sep-2018 11:20:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/emifoundation/public_html/wp-content/themes/cryptronick/core/vc/modules/bpt_coins_list.php on line 13
+[05-Sep-2018 14:24:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/emifoundation/public_html/wp-content/plugins/enable-media-replace/upload.php on line 56

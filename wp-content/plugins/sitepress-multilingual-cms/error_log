@@ -1,0 +1,14 @@
+[30-Aug-2018 21:24:10 UTC] PHP Fatal error:  Call to undefined function wpml_get_authenticated_action() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[30-Aug-2018 21:24:10 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7
+[31-Aug-2018 03:56:02 UTC] PHP Fatal error:  Call to undefined function wpml_get_authenticated_action() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[31-Aug-2018 03:56:05 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7
+[04-Sep-2018 19:53:07 UTC] PHP Fatal error:  Call to undefined function wpml_get_authenticated_action() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[04-Sep-2018 19:53:07 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7
+[04-Sep-2018 19:53:09 UTC] PHP Fatal error:  Call to undefined function wpml_get_authenticated_action() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[04-Sep-2018 19:53:10 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7
+[05-Sep-2018 02:58:48 UTC] PHP Fatal error:  Call to undefined function wpml_get_authenticated_action() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[05-Sep-2018 02:58:51 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7
+[05-Sep-2018 02:58:53 UTC] PHP Fatal error:  Call to undefined function wpml_get_authenticated_action() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[05-Sep-2018 02:58:56 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7
+[11-Sep-2018 09:06:46 UTC] PHP Fatal error:  Call to undefined function wpml_get_authenticated_action() in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/ajax.php on line 23
+[11-Sep-2018 09:06:46 UTC] PHP Fatal error:  Class 'WPML_WPDB_User' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 7

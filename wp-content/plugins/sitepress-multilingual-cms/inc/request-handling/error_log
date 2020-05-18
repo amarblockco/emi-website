@@ -1,0 +1,7 @@
+[30-Aug-2018 21:47:19 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[31-Aug-2018 03:54:22 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[04-Sep-2018 19:59:27 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[04-Sep-2018 19:59:31 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[05-Sep-2018 02:57:43 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[05-Sep-2018 02:57:49 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9
+[11-Sep-2018 09:08:39 UTC] PHP Fatal error:  Class 'WPML_Request' not found in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/inc/request-handling/wpml-backend-request.class.php on line 9

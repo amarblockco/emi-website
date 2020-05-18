@@ -1,0 +1,7 @@
+[30-Aug-2018 21:47:13 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[31-Aug-2018 03:54:56 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[04-Sep-2018 19:59:33 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[04-Sep-2018 19:59:40 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[05-Sep-2018 02:58:05 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[05-Sep-2018 02:58:10 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
+[11-Sep-2018 09:08:59 UTC] PHP Fatal error:  Call to a member function get_active_languages() on null in /home/emifoundation/public_html/wp-content/plugins/sitepress-multilingual-cms/menu/menu-sync/menus-sync.php on line 6
