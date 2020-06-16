@@ -23,10 +23,10 @@
 define('DB_NAME', 'emifound_emifoundationmain');
 
 /** MySQL database username */
-define('DB_USER', 'emifound_emifoun');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'EmiFoundation@2018');
+define('DB_PASSWORD', 'InterAKT@Emi');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
